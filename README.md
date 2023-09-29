@@ -1,5 +1,5 @@
 <h1 align="left">Olá! Tudo bem?</h1>
-<h4 align="left">Sou desenvolvedor júnior apaixonado por tecnologia e programação, mas acima de tudo, em aprender. Estou dedicado a aprender o desenvolvimento web e tenho uma 'queda' para lidar com dados. O início foi com Javascript, HTML e CSS. Mas nos últimos meses aprofundei em tecnologias como o react, redux, Nodejs, docker e python! Então, quanto mais aprendo, mas percebo o universo incrível de conhecimento a ser explorado.</br> Curto muito quadrinhos e ouvir solos de contra-baixo.</h4>
+<h5 align="left">Sou desenvolvedor júnior apaixonado por tecnologia e programação, mas acima de tudo, em aprender. Estou dedicado a aprender o desenvolvimento web e tenho uma 'queda' para lidar com dados. O início foi com Javascript, HTML e CSS. Mas nos últimos meses aprofundei em tecnologias como o react, redux, Nodejs, docker e python! Então, quanto mais aprendo, mas percebo o universo incrível de conhecimento a ser explorado.</br> Curto muito quadrinhos e ouvir solos de contra-baixo.</h5>
 
 - 👨‍💻 Visite meu portifólio [https://marcosadrianoti.github.io/](https://marcosadrianoti.github.io/)
 
